@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="HTML-api">
+    <Basepaths>/html-api</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1571661059494</CreatedAt>
+    <CreatedBy>pawan.sharma@neosalpha.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>HTML-api</DisplayName>
+    <LastModifiedAt>1571662550761</LastModifiedAt>
+    <LastModifiedBy>pawan.sharma@neosalpha.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:cdaba71ba64e65d914bd74730fd4e986f4f17e724b0e0c1b62ff5654e068a30a7d3faec66a93dc9596fe44c1f84aef9982f2dbc7937e77d8b1c540e6d8d7c570</ManifestVersion>
+    <Policies>
+        <Policy>JavaScript-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://JavaScript-1.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
